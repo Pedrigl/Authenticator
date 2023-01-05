@@ -1,1 +1,3 @@
 # Authenticatioin
+
+- Cookies encriptados
